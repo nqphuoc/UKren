@@ -1,5 +1,14 @@
 # UKren
-University of Ulsan - Korean-English Parallel Corpus with Korean Word-Sense Annotation has been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
+University of Ulsan - Korean-English Parallel Corpus (1.25M sentence piars) with Korean Word-Sense Annotation has been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
+
+Korean Word-Sense Annotation was conducted by UTagger (http://nlplab.ulsan.ac.kr/doku.php?id=utagger) that consists of the following processes:
+
+  . Korean morphological analysis
+  
+  . POS tagging
+  
+  . Sense-codes tagging (A sense-code, which represents a special sense of a word is defined in the Standard Korean Language Dictionary)
+
 
 UKren_Sample.txt and UKren_WS_Ann_Sample.txt are the sample files with 5,000 sentence pairs. If you want to use the full corpus, please contact us through e-mail: nqphuoc@gmail.com 
 
