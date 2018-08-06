@@ -1,5 +1,5 @@
 # UKren
-University of Ulsan - Korean-English Parallel Corpus with Korean Word-Sense Annotation has been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr)
+University of Ulsan - Korean-English Parallel Corpus with Korean Word-Sense Annotation has been built in NLP Lab., University of Ulsan, Rep. of Korea. (http://nlplab.ulsan.ac.kr).
 
 UKren is a large-scale Korean-English Parallel Corpus with the detailed information as the following.
  . Ukren: Korean-English Parallel Corpus
