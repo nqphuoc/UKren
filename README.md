@@ -7,7 +7,7 @@ UKren is a large-scale Korean-English Parallel Corpus with the detailed informat
  
  
 +---------------------------------------------------------------------------------------------+
-|                                | # Sentences | #Avg. length |    #Tokens   | #Vocabularies  |
+|xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx| # Sentences | #Avg. length |    #Tokens   | #Vocabularies  |
 +--------+---------------------- +-------------+--------------+--------------+----------------+
 |        | Original              |             |        8.5   |  10,693,999  |      827,315   |
 | Korean |-----------------------+             +--------------+--------------+----------------+
