@@ -5,31 +5,32 @@ UKren is a large-scale Korean-English Parallel Corpus with the detailed informat
 	
 	. Ukren: Korean-English Parallel Corpus.
 	
-	. UKren_WS_Ann : Korean-English Parallel Corpus with Word-sense annation for Korean by UTagger
+	. UKren_WS_Ann : Korean-English Parallel Corpus with Word-sense annotation for Korean by UTagger
 	
-	. Total sentences: 1,251,075
-	
-	. Average sentence length: 
+	. Total sentences: 1,251,075	
+		
+	. Average sentence length
 	
 		. English: 11.5
 		
 		. Korean: 8.5
- 
-+---------------------------------------------------------------------------------------------+
-
-|                                | # Sentences | #Avg. length |    #Tokens   | #Vocabularies  |
-
-+--------+---------------------- +-------------+--------------+--------------+----------------+
-
-|        | Original              |             |        8.5   |  10,693,999  |      827,315   |
-
-| Korean |-----------------------+             +--------------+--------------+----------------+
-
-|        | Word-sense Annotation |  1,251,075  |       28.8   |  22,864,606  |      135,657   |
-
-+--------+-----------------------+             +--------------+--------------+----------------+
-
-|            English             |             |       11.5   |  14,387,731  |      353,153   |
-
-+---------------------------------------------------------------------------------------------+
-
+		
+		. Korean with Word-sense annotation: 28.8
+		
+	. Total tokens
+	
+		. English: 14,387,731
+		
+		. Korean:  10,693,999
+		
+		. Korean with Word-sense annotation: 22,864,606
+		
+	
+	. Total vocabularies
+	
+		. English: 353,153
+		
+		. Korean:  827,315
+		
+		. Korean with Word-sense annotation: 135,657
+		
